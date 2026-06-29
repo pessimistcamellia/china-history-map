@@ -1,6 +1,6 @@
 # 中国历史疆域图
 
-**在线访问**：https://chancecheN12.github.io/china-history-map
+**在线访问**：https://pessimistcamellia.github.io/china-history-map/
 
 一个覆盖**秦朝（前221年）至新中国（2024年）**的历史地理信息交互网页，支持行政区划查询、历史事件浏览和全球视角对比。
 
